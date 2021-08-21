@@ -1,0 +1,15 @@
+body{
+    background-color: whitesmoke;
+}
+
+main{
+    background-color: white;
+}
+
+nav, footer{
+    background-color:yellowgreen;
+}
+
+#info{
+    background-color: yellowgreen;
+}
